@@ -1,3 +1,3 @@
 # MyBlogApp
 
-Zip file which includes all the files related to MyBlog APP
+MyBlogApp.zip file which includes all the files related to MyBlog APP
